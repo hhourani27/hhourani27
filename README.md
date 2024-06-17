@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hello I'm Habib 👋
+
+**A Full-stack developper by day 🌞 and a puzzle solver by night🌛**
+
+- 🔭 Love working with `Javascript`, `Typescript`, `React`, `Python`, `Rust`
+- 🌱 Currently learning the insides of `Typescript` and `JS Bundlers`. Should help me fight those pesky build bugs.
+
+**Here's an overview of my repositories and projects**
+| Repository | Description | Technologies  |
+|--------|-------------------------|---|
+| 📦 [asciip](https://github.com/hhourani27/asciip) <br/> 🌐 [asciip.dev](https://asciip.dev/) | An ASCII diagram editor | `React`, `Typescript`  |
+|        |                         |   |
+|        |                         |   |
 
 <!--
 **hhourani27/hhourani27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

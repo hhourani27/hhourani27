@@ -5,18 +5,21 @@
 - 🔭 Love working with `Javascript`, `Typescript`, `React`, `Python`, `Rust`
 - 🌱 Currently learning the insides of `Typescript` and `JS Bundlers`. Should help me fight those pesky build bugs 😤.
 
+-----
 **Here's an overview of my repositories and projects**
 | Repository | Description | Technologies  |
 |--------|-------------------------|---|
 | 📦 [asciip](https://github.com/hhourani27/asciip) <br/> 🌐 [asciip.dev](https://asciip.dev/) | An ASCII diagram editor | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  |
 | 📦 [vortex-game](https://github.com/hhourani27/vortex-game) | A simple HTML5 game | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=falt&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  |
+| 📦 [longevity](https://github.com/hhourani27/longevity) | Showcase: A webapp for managing long-term digital archival | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)|
+| 📦 [dna-synthesis](https://github.com/hhourani27/dna-synthesis) | Showcase: A webapp for controlling DNA synthethizer machines | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)|
+| 📦 [CV](https://github.com/hhourani27/cv) | My CV | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=falt&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)|
 
 
+----
 **And my Codingame achievements to help me scratch that puzzle itch**
 
-Here's my 👾 [CodinGame profile](https://www.codingame.com/profile/c46427c758ddd94be96387d1173f957e9123581)
-
-And my solutions to puzzles and bots:
+My 👾 [CodinGame profile](https://www.codingame.com/profile/c46427c758ddd94be96387d1173f957e9123581), and my solutions to puzzles and bots:
 
 | Repository    | Language    |
 |-------------|-------------|
